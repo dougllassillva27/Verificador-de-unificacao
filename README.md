@@ -97,7 +97,7 @@ Ignora campos de data em branco. Valida apenas campos preenchidos com:
 
 ```bash
 python -m venv venv
-.env\Scriptsctivate
+.\venv\Scripts\activate
 ```
 
 3. Instale as dependências:

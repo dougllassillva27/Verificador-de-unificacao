@@ -1,0 +1,20 @@
+{
+  "bancos_de_dados": [
+    {
+      "nome_identificador": "Banco_1",
+      "tipo": "SQLServer",
+      "servidor": "WDSBRCBO-00106\\SQL2022TESTES",
+      "banco": "Banco_1",
+      "usuario": "sa",
+      "senha": "_43690"
+    },
+    {
+      "nome_identificador": "Banco_2",
+      "tipo": "SQLServer",
+      "servidor": "WDSBRCBO-00106\\SQL2022TESTES",
+      "banco": "Banco_2",
+      "usuario": "sa",
+      "senha": "_43690"
+    }
+  ]
+}

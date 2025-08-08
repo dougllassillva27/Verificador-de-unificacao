@@ -1,0 +1,11 @@
+.env/
+node_modules/
+.vscode/
+.env
+build/
+dist/
+Resultados_Analise/
+venv/
+AnalisadorDeUnificacao.spec
+diagnostico_drivers.py
+diagnostico_schema.py
